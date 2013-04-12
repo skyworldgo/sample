@@ -7,15 +7,15 @@ Sample
 Education
 ========
 
-- POSTECH (Pohang University of Science and Technology) / Pohang, S.Korea
+- **POSTECH (Pohang University of Science and Technology) / Pohang, S.Korea**
 <br>   Ph.D Candidate in Creative IT Excellence Engineering (CITE), G.P.A. (3.98/4.3) </br>
 <br>   Relevant Coursework: High-Tech Marketing, Innovation, Natural Language Processing, Information Retrieval </br>
 
-- IESEG, School of Management / Lille-Paris, France
+- **IESEG, School of Management / Lille-Paris, France**
 <br>   Master course (Msc) in Management (Exchange Student), G.P.A. (14.4/20) </br>
 <br>   Relevant Coursework: Marketing and General Management </br>
 
-- HANYANG UNIVERSITY, School of Business / Seoul, S.Korea
+- Hanyang University, School of Business / Seoul, S.Korea
 <br>   SUMMA CUM LAUDE, B.A. in Business Administration, G.P.A. (4.12/4.5) </br>
 <br>   Relevant Coursework: Marketing Management, Management Strategy, Consumer Behavior, Management Information System </br>
 
@@ -26,9 +26,9 @@ Education
 Work Experience
 ==============
 
-- Samsung Electronics Co., Ltd. 
-<br>   Full time employee (Mobile Communication) </br>
-<br>   Europe Sales & Marketing Team, Marketing mix strategy </br>
+- **Samsung Electronics Co., Ltd.**
+<br>   Full time employee (**Mobile Communication**) </br>
+<br>   **Europe Sales & Marketing Team**, Marketing mix strategy </br>
 
 - SK Networks
 <br>   Student intern consultant </br>
@@ -47,16 +47,16 @@ Publications
 - Conference Papers
 <br> 1st Prize Award (The 9th Hyundai Motor Company Marketing Forum) </br>
 <br>   Honored with the first prize award for presenting marketing plan of my own </br>
-<br>   Granted an opportunity of marketing education program in U.S.A.  </br>
+<br>   Granted an opportunity of marketing education program in **U.S.A.**  </br>
 
 Skills
 ====
 
-<br> 10 years of experience in office programs including MS Office </br>
-<br> A year of programming experience in Python </br>
-<br> Fluent in English, both verbal and written (GRE: 1430/1600) </br>
-<br> Fluent in Japanese, both verbal and written (JLPT: 1st Grade, 337) </br>
-<br> Fluent in Korean, Native </br>
+- 10 years of experience in office programs including MS Office </br>
+- A year of programming experience in Python </br>
+- Fluent in English, both verbal and written (GRE: 1430/1600) </br>
+- Fluent in Japanese, both verbal and written (JLPT: 1st Grade, 337) </br>
+- Fluent in Korean, Native </br>
 
 
 Projects
@@ -68,13 +68,13 @@ Projects
 
 - WIM Project
 <br>   Arranging individual-company cooperation for practical business solutions </br>
-<br>   "AdbyMe" service has been launced after finish above  </br>
+<br>   Startup "AdbyMe" project carried on after finish above WIM project </br>
 
 - Korea Food for the Hungry International
 <br>   Assistant in administration staff and English Interpreter </br>
 <br>   Get experienced operating online marketing, achieved targeted fund-raising volume </br>
 
-- BSOAP (Hanyang Univ. ? Keio Univ. in Japan Student interchange Program)
+- BSOAP (Hanyang Univ. and Keio Univ. in Japan, Student interchange Program)
 <br> Member of founder group, Interpreter </br>
 <br>   Studying diversity in approaching methods and viewpoints in practical business  </br>
 <br>   Developing communication skill, Overcome cultural differences </br>
