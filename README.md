@@ -26,9 +26,9 @@ Education
 Work Experience
 ==============
 
-- **Samsung Electronics Co., Ltd.**
-<br>   Full time employee (**Mobile Communication**) </br>
-<br>   **Europe Sales & Marketing Team**, Marketing mix strategy </br>
+- **_Samsung Electronics Co., Ltd._**
+<br>   **Full time employee (Mobile Communication)** </br>
+<br>   Europe Sales & Marketing Team, Marketing mix strategy </br>
 
 - SK Networks
 <br>   Student intern consultant </br>
