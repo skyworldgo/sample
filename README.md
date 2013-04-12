@@ -1,83 +1,83 @@
 Sample
 ======
 
-A sample repo for POSTECH students and interns
+<br> A sample repo for POSTECH students and interns </br>
 
 
 Education
 ========
 
-POSTECH (Pohang University of Science and Technology) / Pohang, S.Korea
-  Ph.D Candidate in Creative IT Excellence Engineering (CITE), G.P.A. (3.98/4.3)
-  Relevant Coursework: High-Tech Marketing, Innovation, Natural Language Processing, Information Retrieval
+- POSTECH (Pohang University of Science and Technology) / Pohang, S.Korea
+<br>   Ph.D Candidate in Creative IT Excellence Engineering (CITE), G.P.A. (3.98/4.3) </br>
+<br>   Relevant Coursework: High-Tech Marketing, Innovation, Natural Language Processing, Information Retrieval </br>
 
-IESEG, School of Management / Lille-Paris, France
-  Master course (Msc) in Management (Exchange Student), G.P.A. (14.4/20)
-  Relevant Coursework: Marketing and General Management
+- IESEG, School of Management / Lille-Paris, France
+<br>   Master course (Msc) in Management (Exchange Student), G.P.A. (14.4/20) </br>
+<br>   Relevant Coursework: Marketing and General Management </br>
 
-HANYANG UNIVERSITY, School of Business / Seoul, S.Korea
-  SUMMA CUM LAUDE, B.A. in Business Administration, G.P.A. (4.12/4.5)
-  Relevant Coursework: Marketing Management, Management Strategy, Consumer Behavior, Management Information System
+- HANYANG UNIVERSITY, School of Business / Seoul, S.Korea
+<br>   SUMMA CUM LAUDE, B.A. in Business Administration, G.P.A. (4.12/4.5) </br>
+<br>   Relevant Coursework: Marketing Management, Management Strategy, Consumer Behavior, Management Information System </br>
 
-Kwacheon Foreign Language High School / Gyeonggi, S.Korea
-  Majored in English (Minor: Japanese, Chinese)
+- Kwacheon Foreign Language High School / Gyeonggi, S.Korea
+<br>   Majored in English (Minor: Japanese, Chinese) </br>
 
 
 Work Experience
 ==============
 
-Samsung Electronics Co., Ltd. 
-  Full time employee (Mobile Communication)
-  Europe Sales & Marketing Team, Marketing mix strategy
+- Samsung Electronics Co., Ltd. 
+<br>   Full time employee (Mobile Communication) </br>
+<br>   Europe Sales & Marketing Team, Marketing mix strategy </br>
 
-SK Networks
-  Student intern consultant
-  Consulted on Next Generation Growth Strategy based on complex systems
+- SK Networks
+<br>   Student intern consultant </br>
+<br>   Consulted on Next Generation Growth Strategy based on complex systems </br>
 
-Military service in Republic of Korea Army
-  Defense Intelligence Command, Squad leader and Sergeant
+- Military service in Republic of Korea Army
+<br>   Defense Intelligence Command, Squad leader and Sergeant </br>
 
 
 Publications
 ==========
 
 - Thesis
-Strategy of SONY's penetration into DSLR market in Korea, Journal of management case research, vol.43, pp.365-450 
+<br> Strategy of SONY's penetration into DSLR market in Korea, Journal of management case research, vol.43, pp.365-450  </br>
 
 - Conference Papers
-1st Prize Award (The 9th Hyundai Motor Company Marketing Forum)
-  Honored with the first prize award for presenting marketing plan of my own
-  Granted an opportunity of marketing education program in U.S.A.  
+<br> 1st Prize Award (The 9th Hyundai Motor Company Marketing Forum) </br>
+<br>   Honored with the first prize award for presenting marketing plan of my own </br>
+<br>   Granted an opportunity of marketing education program in U.S.A.  </br>
 
 Skills
 ====
 
-10 years of experience in office programs including MS Office
-A year of programming experience in Python
-Fluent in English, both verbal and written (GRE: 1430/1600)
-Fluent in Japanese, both verbal and written (JLPT: 1st Grade, 337)
-Fluent in Korean, Native
+<br> 10 years of experience in office programs including MS Office </br>
+<br> A year of programming experience in Python </br>
+<br> Fluent in English, both verbal and written (GRE: 1430/1600) </br>
+<br> Fluent in Japanese, both verbal and written (JLPT: 1st Grade, 337) </br>
+<br> Fluent in Korean, Native </br>
 
 
 Projects
 =======
 
-Launching Galaxy Note with developing Eco-System
-  New type of device, Phablet with a pen, has been successfully launched 
-  Learned how to broaden partnerships, to establish new service models
+- Launching Galaxy Note with developing Eco-System
+<br>   New type of device, Phablet with a pen, has been successfully launched  </br>
+<br>   Learned how to broaden partnerships, to establish new service models </br>
 
-WIM Project
-  Arranging individual-company cooperation for practical business solutions
-  "AdbyMe" service has been launced after finish above 
+- WIM Project
+<br>   Arranging individual-company cooperation for practical business solutions </br>
+<br>   "AdbyMe" service has been launced after finish above  </br>
 
-Korea Food for the Hungry International
-  Assistant in administration staff and English Interpreter
-  Get experienced operating online marketing, achieved targeted fund-raising volume
+- Korea Food for the Hungry International
+<br>   Assistant in administration staff and English Interpreter </br>
+<br>   Get experienced operating online marketing, achieved targeted fund-raising volume </br>
 
-BSOAP (Hanyang Univ. ? Keio Univ. in Japan Student interchange Program)
-Member of founder group, Interpreter
-  Studying diversity in approaching methods and viewpoints in practical business 
-  Developing communication skill, Overcome cultural differences
+- BSOAP (Hanyang Univ. ? Keio Univ. in Japan Student interchange Program)
+<br> Member of founder group, Interpreter </br>
+<br>   Studying diversity in approaching methods and viewpoints in practical business  </br>
+<br>   Developing communication skill, Overcome cultural differences </br>
 
 
 
