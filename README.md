@@ -1,9 +1,11 @@
-Sample
-======
-
-<br> A sample repo for POSTECH students and interns </br>
+A sample repo for POSTECH students and interns
 
 # Kiyoung SHIN
+
+- Date of Birth : 31/July/1985
+- Address : 6 / 402, Posville(Nakwon APT), Jigok-dong, Nam-gu, Pohang, Gyeongbuk, South Korea
+- Cell Phone : +82 10 7137 4218
+- Email : shinsky@postech.ac.kr
 
 
 Education
@@ -48,7 +50,7 @@ Publications
 
 - Conference Papers
 <br> 1st Prize Award (The 9th Hyundai Motor Company Marketing Forum) </br>
-<br>   Honored with the first prize award for presenting marketing proposal of my own </br>
+<br>   Honored with the first prize award for presenting marketing strategy of my own </br>
 <br>   Granted an opportunity of marketing education program in **U.S.A.**  </br>
 
 Skills
