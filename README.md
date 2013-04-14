@@ -8,7 +8,7 @@ A sample repo for POSTECH students and interns
 - Email : shinsky@postech.ac.kr
 
 
-Education
+##Education
 ========
 
 - **POSTECH (Pohang University of Science and Technology) / 2012 - present / Pohang, S.Korea**
@@ -27,7 +27,7 @@ Education
 <br>   Majored in English (Minor: Japanese, Chinese) </br>
 
 
-Work Experience
+##Work Experience
 ==============
 
 - **_Samsung Electronics Co., Ltd._** / 2011 - 2012
@@ -42,7 +42,7 @@ Work Experience
 <br>   Defense Intelligence Command, Squad leader and Sergeant </br>
 
 
-Publications
+##Publications
 ==========
 
 - Thesis
@@ -53,7 +53,7 @@ Publications
 <br>   Honored with the first prize award for presenting marketing strategy of my own </br>
 <br>   Granted an opportunity of marketing education program in **U.S.A.**  </br>
 
-Skills
+##Skills
 ====
 
 - A year of programming experience in Python </br>
@@ -62,7 +62,7 @@ Skills
 - Fluent in Korean, Native </br>
 
 
-Projects
+##Projects
 =======
 
 - Launching Galaxy Note with developing Eco-System
@@ -81,7 +81,3 @@ Projects
 <br> Member of founder group, Interpreter </br>
 <br>   Studying diversity in approaching methods and viewpoints in practical business  </br>
 <br>   Developing communication skill, Overcome cultural differences </br>
-
-
-
-
