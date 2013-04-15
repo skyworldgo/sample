@@ -60,24 +60,29 @@ A sample repo for POSTECH students and interns
 - Fluent in English, both verbal and written (GRE: 1430/1600) </br>
 - Fluent in Japanese, both verbal and written (JLPT: 1st Grade, 337) </br>
 - Fluent in Korean, Native </br>
+- National certification in Office software: (e-Test Professionals: EP40000221189) 
 
 
 ##Projects
 =======
 
-- Launching Galaxy Note with developing Eco-System
+- "Branduzz" project / 2012
+<br>   Analyze SNS data(paths, opinion, etc) and evaluate brand assets of individuals or companies   </br>
+<br>   **Experiences of using NLP, IR tools: Natural Language Toolkit(NLTK), Graphviz, Redis, NetworkX, etc.** </br>
+
+- Launching Galaxy Note with developing Eco-System / 2011
 <br>   New type of device, Phablet with a pen, has been successfully launched  </br>
 <br>   Learned how to broaden partnerships, to establish new service models </br>
 
-- WIM Project
-<br>   Arranging individual-company cooperation for practical business solutions </br>
-<br>   Startup "AdbyMe" project carried on after finish above WIM project </br>
-
-- Korea Food for the Hungry International
+- Korea Food for the Hungry International / 2009
 <br>   Assistant in administration staff and English Interpreter </br>
 <br>   Get experienced operating online marketing, achieved targeted fund-raising volume </br>
 
-- BSOAP (Hanyang Univ. and Keio Univ. in Japan, Student interchange Program)
+- "WIM" Project / 2008
+<br>   Arranging individual-company cooperation for practical business solutions </br>
+<br>   Startup "AdbyMe" project carried on after finish above WIM project </br>
+
+- BSOAP (Hanyang Univ. and Keio Univ. in Japan, Student interchange Program) / 2007
 <br> Member of founder group, Interpreter </br>
 <br>   Studying diversity in approaching methods and viewpoints in practical business  </br>
 <br>   Developing communication skill, Overcome cultural differences </br>
