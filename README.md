@@ -1,9 +1,9 @@
-
 ## Kiyoung SHIN
 
 - Date of Birth : 31/July/1985
 - Address : 6 / 402, Posville (Nagwon Apt.), Jigok-dong, Nam-gu, Pohang, Gyeongbuk, South Korea
 - Cell Phone : +82 10 7137 4218
+- Skype ID: skyworldgo
 - Email : shinsky@postech.ac.kr
 
 
