@@ -1,4 +1,3 @@
-A sample repo for POSTECH students and interns
 
 ## Kiyoung SHIN
 
