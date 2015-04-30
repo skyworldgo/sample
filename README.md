@@ -62,7 +62,7 @@
 ##Publications
 ==========
 
-- Thesis
+- Journal Paper
   - Strategy of SONY's penetration into DSLR market in Korea, Journal of management case research, vol.43, pp.365-450
 <br>　 </br>
 - Conference Papers
@@ -77,10 +77,10 @@
 ====
 
 - A year of programming experience in Python
-- Fluent in English, both verbal and written (GRE: 1430/1600)
-- Fluent in Japanese, both verbal and written (JLPT: 1st Grade, 337)
+- Fluent in English, both verbal and written 
+- Fluent in Japanese, both verbal and written 
 - Fluent in Korean, Native
-- National certification in Office software: (e-Test Professionals: EP40000221189) 
+- National certification in Office software
 
 
 ##Projects
@@ -88,19 +88,14 @@
 
 - "Branduzz" project / 2012
   - Analyze SNS data(paths, opinion, etc) and evaluate brand assets of individuals or companies
-  - **Experiences of using NLP, IR tools: Natural Language Toolkit(NLTK), Graphviz, Redis, NetworkX, etc.**
 <br>　 </br>
-- Launching **Galaxy Note** with developing Eco-System / 2011
+- Organizing and excuting a **Galaxy Note** sales-force education session / 2011
   - New type of device, Phablet with a pen, has been successfully launched
   - **Learned how to broaden partnerships, to establish new service models**
 <br>　 </br>
 - Korea Food for the Hungry International / 2009
   - Assistant in administration staff and English Interpreter
   - Get experienced operating online marketing, achieved targeted fund-raising volume
-<br>　 </br>
-- "WIM" Project / 2008
-  - Arranging individual-company cooperation for practical business solutions
-  - Startup "AdbyMe" project carried on after finish above WIM project
 <br>　 </br>
 - BSOAP (Hanyang Univ. and Keio Univ. in Japan, Student interchange Program) / 2007
   - Member of founder group, Interpreter
